@@ -4,7 +4,7 @@
 ## The Brief
 
 To create a 'light' version of the Moneybox app that will allow existing users to login and check their account balance, as well as viewing their Moneybox savings. 
-- To fork this repository to your private repository and implement the solution.
+- To clone this repository into your private repository and implement the solution.
  
 ### The app should have
 - A login screen to allow existing users to sign in
