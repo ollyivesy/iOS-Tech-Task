@@ -53,7 +53,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B2CA46E72793508A0041B3A5"
+               BlueprintIdentifier = "74D237EE2C9D55A300A8C7F9"
                BuildableName = "MoneyBoxUITests.xctest"
                BlueprintName = "MoneyBoxUITests"
                ReferencedContainer = "container:MoneyBox.xcodeproj">

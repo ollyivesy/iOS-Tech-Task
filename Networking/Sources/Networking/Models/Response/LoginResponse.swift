@@ -18,7 +18,7 @@ public struct LoginResponse: Decodable {
     }
     
     public struct Session: Decodable {
-        let bearerToken: String
+        public let bearerToken: String // Make bearerToken publicly accessible
         
         enum CodingKeys: String, CodingKey {
             case bearerToken = "BearerToken"
