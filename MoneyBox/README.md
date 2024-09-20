@@ -3,6 +3,9 @@
 ## Overview
 This project implements a lightweight version of the Moneybox app, allowing existing users to log in, check their account balances, and manage their Moneybox savings. The app is designed to provide a clean and user-friendly interface while showcasing best practices in coding style, conventions, and design patterns.
 
+## Screenshots
+![Overview](images/main.png)
+
 ## Features
 - **Login Screen**: Allows existing users to sign in with email and password.
 - **Accounts Screen**: Displays the user's accounts and the total plan value.
